@@ -1,9 +1,7 @@
-igraph
 scikit-learn
 numpy
 scipy
 pandas
-networkx
 seaborn
 matplotlib
 ipykernel
@@ -11,3 +9,6 @@ tqdm
 black
 nbconvert
 jupytext
+spacy
+requests
+umap-learn
