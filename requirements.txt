@@ -12,3 +12,4 @@ jupytext
 spacy
 requests
 umap-learn
+gensim
